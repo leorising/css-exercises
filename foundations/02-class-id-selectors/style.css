@@ -1,0 +1,21 @@
+.odd {
+    background-color: #fad2d2;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.cool {
+    font-size: 24px;
+}
+
+#second {
+    color: #0000ff;
+    font-size: 36px;
+
+}
+
+#four {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
